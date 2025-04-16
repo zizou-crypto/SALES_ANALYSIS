@@ -90,4 +90,3 @@ Add more detailed information about shipping costs and delivery times using powe
 
 This project demonstrates the ability to develop a comprehensive and interactive dashboard for analyzing e-commerce sales data. The dashboard provides valuable insights for understanding sales performance, customer behavior, and product category trends. This project highlights skills in data visualization, DAX calculations, and dashboard design, making it a valuable addition to a data analytics portfolio.
 ![Dashboard analysis](sales_analysis.PNG)
-![Dashboard](sales_blueprint.PNG)
