@@ -50,24 +50,17 @@ Visualizations Created:
 - Tables to display detailed sales data, including MoM growth for different categories.
 - Donut chart to visualize sales by gender.
 
-4. Data Preparation (If Applicable)
+4. Data Preparation 
+- Data Cleaning: 
+- Handled missing values in customer demographic data.
+- Ensured data consistency in date formats.
 
-(Include this section if you performed data cleaning or transformation steps using Power Query or other tools. If these steps were extensive, create a separate file and link to it)
+Data Transformation: 
+- Calculated month-over-month sales and quantity growth.
+- Categorized customers into age groups (Gen Z, Gen X, Millennials, Baby Boomers).
 
-Data Cleaning: (Describe cleaning steps. Example below)
-
-Handled missing values in customer demographic data.
-
-Ensured data consistency in date formats.
-
-Data Transformation: (Describe transformations. Example below)
-
-Calculated month-over-month sales and quantity growth.
-
-Categorized customers into age groups (Gen Z, Gen X, Millennials, Baby Boomers).
-
-Data Loading: (Describe how data was loaded into Power BI)
-* The cleaned and transformed data was loaded into Power BI Desktop using the "Get Data" functionality.
+Data Loading: 
+The cleaned and transformed data was loaded into Power BI Desktop using the "Get Data" functionality.
 
 5. Dashboard Highlights
 - Sales Performance Overview: Provides a high-level overview of total sales and growth trends.
